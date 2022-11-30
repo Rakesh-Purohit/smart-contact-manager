@@ -23,11 +23,19 @@ In BACKEND: I have used Spring Boot Servies like Spring Boot Rest and Spring Boo
 DATABASE: I have used MySQL database here with SQL language query.
 
 Functionalities:
+
 -> User Registration
+
 -> User Login
+
 -> User Dashboard
+
 -> Create Contacts
+
 -> View Contact
+
 -> Maintain/Edit Contact
+
 -> Role Based authentication and Authorization
+
 -> Change Password feature
